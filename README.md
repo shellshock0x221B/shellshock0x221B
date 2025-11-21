@@ -7,10 +7,10 @@
 - 🧬 17 years old, passionate about low-level tech and exploring how things work
 - ⚙️ I creat apps in **C/C++**, **Qt/QML**, and build fun projects with **raylib** & **raygui**
 - 🪐 Currently learning:
-  - Reverse engineering basics  
-  - Learning Binary exploitation   
-  - Assembly (x86 / x64 basics)  
-  - JavaScript fundamentals
+  - Reverse engineering  
+  - Binary exploitation   
+  - Assembly
+  - JavaScript
 - 🔮 I love **simulations**, **astrophysics**, and weird experimental projects
 
 ---
