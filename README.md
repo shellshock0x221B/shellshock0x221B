@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hi, I'm 0xBM0</h1>
+<h1 align="center">🛸 Hi, I'm 0xBM0</h1>
 <h3 align="center">17 y/o Developer • Reverse Engineering Learner • Simulation & Astrophysics Nerd</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 17 years old, passionate about low-level tech and exploring how things work
-- 🔧 I write apps in **C/C++**, **Qt/QML**, and build fun projects with **raylib** & **raygui**
-- 🧠 Currently learning:
+- 🧬 17 years old, passionate about low-level tech and exploring how things work
+- ⚙️ I write apps in **C/C++**, **Qt/QML**, and build fun projects with **raylib** & **raygui**
+- 🪐 Currently learning:
   - Reverse engineering basics  
   - Learning Binary exploitation   
   - Assembly (x86 / x64 basics)  
   - JavaScript fundamentals
-- 🌌 I love **simulations**, **astrophysics**, and weird experimental projects
+- 🔮 I love **simulations**, **astrophysics**, and weird experimental projects
 
 ---
 
@@ -29,11 +29,11 @@
 ---
 
 ## 🔭 Projects & Interests
-- 🌀 **Physics simulations**  
+- 🌌 **Physics simulations**  
 - 🌠 **Astrophysics experiments**  
 - 🧪 **Creative / experimental projects**  
-- 🎮 **Small engines & interactive tools with raylib**  
-- 🛠️ **Educational reverse engineering & system-level exploration**  
+- ⚡ **Small engines & interactive tools with raylib**  
+- 🛡️ **Educational reverse engineering & system-level exploration**  
 
 *(All my learning work stays safe and ethical.)*
 
@@ -47,9 +47,8 @@
   <a href="https://www.instagram.com/yz.djl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@yz.djl-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile — more projects coming soon!**
+🪩 **Thanks for visiting my profile — more projects coming soon!**
