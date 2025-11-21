@@ -33,7 +33,7 @@
 - 🌠 **Astrophysics experiments**  
 - 🧪 **Creative / experimental projects**  
 - ⚡ **Small engines & interactive tools with raylib**  
-- 🛡️ **Educational reverse engineering & system-level exploration**  
+- 🛡️ **Reverse engineering & system-level exploration**  
 
 *(All my learning work stays safe and ethical.)*
 
