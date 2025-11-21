@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🧬 17 years old, passionate about low-level tech and exploring how things work
-- ⚙️ I write apps in **C/C++**, **Qt/QML**, and build fun projects with **raylib** & **raygui**
+- ⚙️ I creat apps in **C/C++**, **Qt/QML**, and build fun projects with **raylib** & **raygui**
 - 🪐 Currently learning:
   - Reverse engineering basics  
   - Learning Binary exploitation   
