@@ -1,5 +1,5 @@
 <h1 align="center">🛸 Hi, I'm 0xBM0</h1>
-<h3 align="center">17 y/o Developer • Reverse Engineering Learner • Simulation & Astrophysics Nerd</h3>
+<h3 align="center">17 y/o Developer • Reverse Engineering Learner && Cybersecurity Guy/h3>
 
 ---
 
@@ -10,8 +10,7 @@
   - Reverse engineering  
   - Binary exploitation   
   - Assembly
-  - JavaScript
-- 🔮 I love **simulations**, **astrophysics**, and weird experimental projects
+- 🔮 I love **simulations**, **Breaking stuff**, and weird experimental projects
 
 ---
 
@@ -29,13 +28,12 @@
 ---
 
 ## 🔭 Projects & Interests
-- 🌌 **Physics simulations**  
-- 🌠 **Astrophysics experiments**  
-- 🧪 **Creative / experimental projects**  
+- 🌌 **Physics simulations**
+- 🎮 **Game Cheats**  
+- 🧪 **Low level Projects**  
 - ⚡ **Small engines & interactive tools with raylib**  
 - 🛡️ **Reverse engineering & system-level exploration**  
 
-*(All my learning work stays safe and ethical.)*
 
 ---
 
