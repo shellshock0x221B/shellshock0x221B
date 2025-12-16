@@ -47,9 +47,6 @@ I enjoy exploring older systems to better understand modern security challenges.
   <img src="https://img.shields.io/badge/GDB-FF4500?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/x64dbg-FF8C00?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Immunity%20Debugger-32CD32?style=for-the-badge&logo=debugger&logoColor=white" />
-
-  <!-- Reverse Engineering Tools -->
-  <img src="https://skillicons.dev/icons?i=ida,ghidra,radare2" />
   <img src="https://img.shields.io/badge/Cutter-9400D3?style=for-the-badge&logoColor=white" />
 
 </div>
