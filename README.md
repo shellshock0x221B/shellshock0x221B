@@ -35,7 +35,7 @@ I enjoy analyzing older technologies to better understand modern security concep
 ### 📚 Frameworks & Libraries
 <div align="center">
   <img src="https://skillicons.dev/icons?i=qt" />
-  <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raylib-4FC08D?style=for-the-badge&logo=raylib&logoColor=white" />
 </div>
 
 ---
@@ -43,8 +43,8 @@ I enjoy analyzing older technologies to better understand modern security concep
 ### 🧪 Debugging & Dynamic Analysis
 <div align="center">
   <img src="https://img.shields.io/badge/GDB-FF6B6B?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/x64dbg-FF6600?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Immunity%20Debugger-00AA00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/x64dbg-FF8800?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Immunity%20Debugger-00C853?style=for-the-badge" />
   <img src="https://skillicons.dev/icons?i=radare2" />
 </div>
 
@@ -52,8 +52,7 @@ I enjoy analyzing older technologies to better understand modern security concep
 
 ### 🔍 Reverse Engineering Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ida,ghidra" />
-  <img src="https://img.shields.io/badge/Cutter-FF6B6B?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=ida,ghidra,cutter" />
 </div>
 
 ---
