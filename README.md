@@ -1,66 +1,80 @@
 <h1 align="center">0xBM0</h1>
-<h3 align="center">Security Researcher | Reverse Engineering Enthusiast</h3>
+<h3 align="center">Security Researcher · Reverse Engineering Enthusiast</h3>
+
+<p align="center">
+Studying the past to understand the present
+</p>
 
 ---
 
-## About
-17-year-old security enthusiast focused on:
+## 👋 About Me
+
+I’m a **17-year-old security enthusiast** with a strong interest in low-level systems and how software breaks at the binary level.
+
+My main interests include:
 - Legacy vulnerability research
-- Reverse engineering
+- Reverse engineering and binary analysis
 - Exploit development fundamentals
 - Low-level systems exploration
 
+I enjoy analyzing older technologies to better understand modern security concepts.
+
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
   <br/>
-  <sub>Assembly (learning)</sub>
+  <sub>Assembly (currently learning)</sub>
 </div>
 
-### Frameworks & Libraries
+---
+
+### 📚 Frameworks & Libraries
 <div align="center">
   <img src="https://skillicons.dev/icons?i=qt" />
-  <br/>
   <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" />
 </div>
 
-### Debugging & Analysis
+---
+
+### 🧪 Debugging & Dynamic Analysis
 <div align="center">
   <img src="https://img.shields.io/badge/GDB-FF6B6B?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/x64dbg-FF6600?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Immunity_DBG-00AA00?style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=radar" />
+  <img src="https://img.shields.io/badge/Immunity%20Debugger-00AA00?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=radare2" />
 </div>
 
-### Reverse Engineering
+---
+
+### 🔍 Reverse Engineering Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ida,ghidra" />
-  <img src="https://img.shields.io/badge/cutter-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cutter-FF6B6B?style=for-the-badge" />
 </div>
 
-### Platforms
+---
+
+### 🖥️ Platforms
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </div>
 
 ---
 
-## Focus Areas
-- Historical CVE analysis
-- Binary exploitation basics
-- Security fundamentals
-- Practical reverse engineering
+## 🎯 Current Focus
+
+- Historical CVE research and analysis  
+- Binary exploitation basics  
+- Core security concepts  
+- Hands-on reverse engineering practice  
 
 ---
 
-## Contact
-[![Email](https://img.shields.io/badge/Email-shellshock0x1@proton.me-blue?style=flat&logo=protonmail)](mailto:shellshock0x1@proton.me)
-[![Twitter](https://img.shields.io/badge/X-@0xBM0-black?style=flat&logo=x)](https://x.com/OxBM0)
+## 📫 Contact
 
----
-
-*Studying the past to understand the present*
+[![Email](https://img.shields.io/badge/Email-shellshock0x1@proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:shellshock0x1@proton.me)
+[![X](https://img.shields.io/badge/X-@0xBM0-black?style=flat&logo=x)](https://x.com/OxBM0)
