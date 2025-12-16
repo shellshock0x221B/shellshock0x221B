@@ -1,5 +1,5 @@
 <h1 align="center">🛸 Hi, I'm 0xBM0</h1>
-<h3 align="center">17 y/o Developer • Reverse Engineering Learner && Cybersecurity Guy/h3>
+<h3 align="center">17 y/o Developer • Reverse Engineering Learner && Cybersecurity Guy </h3>
 
 ---
 
