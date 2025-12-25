@@ -17,9 +17,9 @@ I enjoy exploring older systems to better understand modern security challenges.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,asm" />
   <br/>
@@ -28,7 +28,7 @@ I enjoy exploring older systems to better understand modern security challenges.
 
 ---
 
-### 📚 Frameworks & Libraries
+###  Frameworks & Libraries
 <div align="center">
   <img src="https://skillicons.dev/icons?i=qt" />
   <img src="https://img.shields.io/badge/Raylib-1E90FF?style=for-the-badge&logo=raylib&logoColor=white" />
