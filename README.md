@@ -49,14 +49,14 @@ I enjoy exploring older systems to better understand modern security challenges.
 
 ---
 
-### 🖥️ Platforms
+### Platforms
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </div>
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Web Security
 - Binary exploitation
