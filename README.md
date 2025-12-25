@@ -4,6 +4,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://pin.it/4rXhjVHjJ" width="300" />
+</p>
+
+
+---
+
 ## 👋 About Me
 
 I’m a **17‑year-old security enthusiast** passionate about low‑level systems and understanding how software breaks at the binary level.
