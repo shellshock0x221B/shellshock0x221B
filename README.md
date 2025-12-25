@@ -5,8 +5,9 @@
 ---
 
 <p align="center">
-  <img src="[https://pin.it/4rXhjVHjJ](https://pin.it/6Lx16C6Ew)" width="300" />
+  <img src="https://pin.it/6Lx16C6Ew" width="300" />
 </p>
+
 
 
 ---
