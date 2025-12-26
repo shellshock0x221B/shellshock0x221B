@@ -13,7 +13,7 @@ My main interests:
 - Exploit development   
 - Low-level systems exploration
 
-I enjoy exploring older systems to better understand modern security challenges.
+
 
 ---
 
